@@ -1,5 +1,5 @@
 let currentUser = "Mike";
 
-let welcomeMessage + "";
+let welcomeMessage = "";
 
 
